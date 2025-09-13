@@ -1,6 +1,6 @@
 # 🏏Automatic Cricket Commentary Generation using Vision Transformer
 
-This project is an **AI-powered cricket commentary system** that generates real-time match commentary from video input using **Vision Transformers (ViT), YOLO, GPT, and Streamlit**.  
+This project is an **AI-powered cricket commentary system** that generates real-time match commentary from video input using **Vision Transformers (ViT), GPT, and Streamlit**.  
 It detects cricketing events (like Four, Six, Bowled) from video frames and produces **natural language commentary + audio output**.
 
 ---
@@ -17,7 +17,7 @@ It detects cricketing events (like Four, Six, Bowled) from video frames and prod
 ## 🛠️ Tech Stack
 - **Programming Language**: Python  
 - **Frontend/UI**: Streamlit  
-- **Deep Learning**: Vision Transformer (ViT), YOLO, GPT  
+- **Deep Learning**: Vision Transformer (ViT), GPT  
 - **NLP**: GPT-based text generation, duplicate filtering  
 - **TTS**: gTTS (Google Text-to-Speech)  
 - **Data Handling**: NumPy, Pandas  
