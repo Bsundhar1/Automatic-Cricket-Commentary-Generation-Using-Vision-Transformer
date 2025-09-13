@@ -1,4 +1,4 @@
-# 🏏 CRICOMM: Automatic Cricket Commentary Generation
+# 🏏Automatic Cricket Commentary Generation using Vision Transformer
 
 This project is an **AI-powered cricket commentary system** that generates real-time match commentary from video input using **Vision Transformers (ViT), YOLO, GPT, and Streamlit**.  
 It detects cricketing events (like Four, Six, Bowled) from video frames and produces **natural language commentary + audio output**.
